@@ -1,0 +1,10 @@
+
+]
+java:S2259"GA "NullPointerException" could be thrown; "getCache()" can return null.(Û£Ì¬
+]
+java:S2259"GA "NullPointerException" could be thrown; "getCache()" can return null.(‹„‘á
+j	java:S116"URename this field "CACHE_CART" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒú·ˆ
+S
+java:S1117&"8Rename "cart" which hides the field declared at line 24.(‹øÉªúÿÿÿÿ
+S
+java:S11171"8Rename "cart" which hides the field declared at line 24.(‹øÉªúÿÿÿÿ
